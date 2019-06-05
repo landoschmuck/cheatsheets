@@ -100,7 +100,6 @@ Zitat
 
 HTML - FORMULARE - TYPE INPUT
 types
-
 * number
 * email
 * text
@@ -109,18 +108,15 @@ types
 * tel
 * checkbox
 * radio
- 
 * hidden
 * range
 * color
 * file
 * image
 * url
- 
 * button
 * reset
 * submit
- 
 * date
 * datetime
 * datetime-local
@@ -130,3 +126,15 @@ types
 * attributes
 
 type, id, name, value, disabled, min, max, autocomplete, placeholder
+
+### HTML - LISTEN
+Geordnete und ungeordnete Listen sind sehr beliebt.
+
+Listen können in beliebiger Tiefe verschachtelt werden.
+
+* ol - beinhaltet eine geordnete Liste
+* ul - beinhaltet eine ungeordnete Liste
+* li - beinhaltet ein Listenelement
+* dl - beinhaltet eine "description" Liste
+* dt - beinhaltet den Titel des Eintrags
+* dd - beinhaltet den Inhalt des Eintrags
