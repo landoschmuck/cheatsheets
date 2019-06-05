@@ -44,8 +44,8 @@
 * ins - definiert einen hinzugefügten Text
 * sub - definiert einen tiefgestellten Text
 * sup - definiert einen hochgestellten Text
-* abbr - definiert eine Abkürzung
-* code - definiert einen Code-Abschnitt
+    * abbr - definiert eine Abkürzung
+    * code - definiert einen Code-Abschnitt
 * b - definiert einen Text in fetter Schrift, veraltet
 * i - definiert einen Text in kursiv Schrift, veraltet
 * s - definiert einen durchgestrichenen Text, veraltet
